@@ -5,3 +5,8 @@
 - 하지만 [이 글] 에 적혀진 코드는 환경이 달라서인지, 작동하지 않는다.(http://www.tidbitsofprogramming.com/2014/02/crawling-website-that-loads-content.html)
 - [Google 에서 작성한 글]도 Deprecated된 상태이다.(https://developers.google.com/webmasters/ajax-crawling/docs/getting-started)
 - ajax application을 크롤링 할 수 있는 프로젝트들이 몇몇 개 보이긴 하지만, 문서화 상태가 영 좋지 않다. python을 쓰지 않는다.
+
+
+## Dependencies
+- selenium(using pip)
+- webdriver(using brew)
