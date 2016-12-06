@@ -7,7 +7,7 @@ driver.get("http://www.remoteworking.co/#s=2")
 print("done!")
 sleep(5)
 company = driver.find_element_by_class_name("company")
-print(company)
+print "company : ", company
 
 companies = driver.find_elements_by_tag_name("a")
 for company in companies:

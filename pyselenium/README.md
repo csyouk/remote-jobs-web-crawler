@@ -19,7 +19,7 @@
 
 ## Dependencies not in pip 
 - webdriver( brew install selenium-server-standalone )
-    (brew 가 설치되어 있지 않으면 [이곳]을 참조(http://brew.sh/index_ko.html))
+    (brew 가 설치되어 있지 않으면 [이곳](http://brew.sh/index_ko.html)을 참조)
 
 
 
